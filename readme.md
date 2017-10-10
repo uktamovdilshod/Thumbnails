@@ -1,4 +1,4 @@
-This Thumbnail plugin for <a href="https://github.com/Studio-42/elFinder">https://github.com/Studio-42/elFinder</a>
+This thumbnail plugin for <a href="https://github.com/Studio-42/elFinder">https://github.com/Studio-42/elFinder</a> to create different size images
 
 **Installation**
 
